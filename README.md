@@ -130,5 +130,7 @@ public class Main {
   int num20 = Math.min(num19, num16);
 	
   System.out.println("El numero menor es: " + num20);
-	}
+	
+}
+	
 }
